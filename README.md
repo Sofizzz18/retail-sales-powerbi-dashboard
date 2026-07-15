@@ -6,7 +6,7 @@ An end to end retail sales analytics project built using SQL, Excel, and Power B
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Dashboard](Retail Sales Dashboard.png)
+[Retail Sales Dashboard](Retail Sales Dashboard.png)
 
 ---
 
